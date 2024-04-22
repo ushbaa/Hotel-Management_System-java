@@ -581,6 +581,7 @@ class Main {
                             System.out.println("Room doesn't exist");
                         break;
                     case 6:
+                    System.out.println("Thank You!");
                         break x;
                 }
 
